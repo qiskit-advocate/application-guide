@@ -60,7 +60,7 @@ The selection process will begin after August 15, 2020. Advocates that score abo
 
 Apply here to get started: https://community.qiskit.org/advocates. If you have any questions, please reach out to us in the #qiskit-advocates-help channel on Qiskit Slack.
 
-## guide for increasing the chances of getting selected
+## guide for increasing the chances of getting selected (consider making it a separate file)
 
 - how to make open source contributions ([medium blog](https://medium.com/qiskit/how-do-you-contribute-to-the-qiskit-community-9f4a42cd2500))
 
