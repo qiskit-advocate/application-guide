@@ -5,16 +5,16 @@ The Qiskit advocate program is a global initiative to support the most active me
 
 ## Why should you apply?
 
-### Networking with experts and enthusiasts
+### 1. Networking with experts and enthusiasts
 As an advocate, you will be able to attend monthly meetup sessions to share projects and ideas with fellow advocates, and work together with them on new projects and events.
 
-### Getting special access to Qiskit core members and projects
+### 2. Getting special access to Qiskit core members and projects
 As an advocate, you will be able to ask questions to members of the Qiskit team and even find a mentor among them through our mentorship program.
 
-### Being recognized by IBM
+### 3. Being recognized by IBM
 As an advocate, you will have the opportunity to have your work supported and highlighted by IBM. In fact, many advocates have become interns or even work full time for IBM Quantum and Qiskit.
 
-### Receiving invitations to events
+### 4. Receiving invitations to events
 As an active advocate, you will be invited to global (physical or virtual) events created for the quantum community such as Qiskit Camps and IBM Quantum Challenges.
 
 ## Highlights of advocates
