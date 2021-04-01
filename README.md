@@ -82,3 +82,5 @@ Apply here to get started: https://community.qiskit.org/advocates. If you have a
 - Conduct workshops and give talks ([Qiskit Virtual Event Guide](https://qiskit-community.github.io/virtual-event-guide/)) <!-- add more here and review -->
 
 - Start constructive conversations on [Slack](https://ibm.co/joinqiskitslack) and [StackExchange](https://quantumcomputing.stackexchange.com/)
+
+- Contribute to tranlations ([Qiskit Localization](https://github.com/qiskit-community/qiskit-translations#to-sign-up-to-participate-in-translations))
