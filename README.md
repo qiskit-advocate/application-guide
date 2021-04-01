@@ -1,9 +1,9 @@
-# Qiskit Advocate Application Guide
+# Qiskit Advocates Application Guide
 
-## What is the Qiskit advocate program?
-The Qiskit advocate program is a global initiative to support the most active members of the Qiskit community. As an advocate, you will join the most passionate group of people in quantum computing. Since the program was launched two years ago, more than 200 people with diverse backgrounds from  30+ countries have joined. We work together to grow the Qiskit community, from organizing events to making open source contributions to Qiskit code and educational content.
+## What is the Qiskit Advocates program?
+The Qiskit Advocates program is a global initiative to support the most active members of the Qiskit community. As an advocate, you will join the most passionate group of people in quantum computing. Since the program was launched two years ago, more than 200 people with diverse backgrounds from  30+ countries have joined. We work together to grow the Qiskit community, from organizing events to making open source contributions to Qiskit code and educational content.
 
-## Why should you apply?
+## Why you should apply:
 
 ### 1. Networking with experts and enthusiasts
 As an advocate, you will be able to attend monthly meetup sessions to share projects and ideas with fellow advocates, and work together with them on new projects and events.
@@ -17,11 +17,9 @@ As an advocate, you will have the opportunity to have your work supported and hi
 ### 4. Receiving invitations to events
 As an active advocate, you will be invited to global (physical or virtual) events created for the quantum community such as Qiskit Camps and IBM Quantum Challenges.
 
-## Highlights of advocates
+## Highlights
 
-Link to advocate blogs and I'm xxx and why I joined quantum computing blogs series
-
-By Advocates:
+### By Advocates:
 - [Amir](https://medium.com/qiskit/ive-worked-in-game-development-my-whole-career-here-s-why-i-m-learning-quantum-computing-41bd179b70f2)
 - [Amira](https://medium.com/qiskit/i-worked-in-finance-heres-why-i-m-learning-quantum-computing-9c1ec9b0b4a2)
 - [Farai](https://medium.com/qiskit/join-qiskit-advocates-to-expand-your-network-and-grow-a48e390681b6)
@@ -33,14 +31,14 @@ By Advocates:
 - [Samuel](https://visbyrain.medium.com/%ED%95%99%EB%B6%80%EC%83%9D%EC%9D%80-ibm-qiskit-advocate%EB%A5%BC-%EA%BF%88%EA%BE%B8%EB%8A%94%EA%B0%80-767738a3082d)
 - [Vicente](https://medium.com/qiskit/why-i-became-a-qiskit-advocate-and-you-should-too-dc4ca7f6c6c5)
 
-Past launch blogs:
+### Past edition blogs:
 - [Junye](https://medium.com/qiskit/qiskit-advocate-applications-open-today-heres-what-you-can-expect-from-the-program-a1b7878f86b8)
 - [Leron](https://medium.com/qiskit/become-a-qiskit-advocate-eb1da2990257)
 
 ## Who can apply?
 Simple. We welcome anyone who is enthusiastic about quantum computing and eager to grow the Qiskit community.
 
-## How should you apply?
+## How you can apply:
 
 Here are the steps for applying to become an advocate:
 
@@ -71,16 +69,16 @@ Apply here to get started: https://community.qiskit.org/advocates. If you have a
 
 ## guide for increasing the chances of getting selected (consider making it a separate file)
 
-- [how to make open source contributions](https://medium.com/qiskit/how-do-you-contribute-to-the-qiskit-community-9f4a42cd2500)
+- [Learn Qiskit](https://qiskit.org/learn/)
 
-- code
+- [Make open source contributions](https://medium.com/qiskit/how-do-you-contribute-to-the-qiskit-community-9f4a42cd2500)
 
-- tutorials / textbook
+- Contribute to code base ([Qiskit Github](https://github.com/Qiskit))
 
-- [how to start a QC club?](https://medium.com/qiskit/quantum-clubs-could-be-your-ticket-into-the-quantum-computing-field-8a29541384fb)
+- [Start a QC club](https://medium.com/qiskit/quantum-clubs-could-be-your-ticket-into-the-quantum-computing-field-8a29541384fb)
 
-- [how to organise a Qiskit hackathon](https://slides.com/huangjunye/how-to-organize-a-qiskit-hackathon)
+- [Organise a Qiskit hackathon](https://slides.com/huangjunye/how-to-organize-a-qiskit-hackathon)
 
-- how to conduct workshop and give talks? ([Qiskit Virtual Event Guide](https://qiskit-community.github.io/virtual-event-guide/)) <!-- add more here and review -->
+- Conduct workshops and give talks ([Qiskit Virtual Event Guide](https://qiskit-community.github.io/virtual-event-guide/)) <!-- add more here and review -->
 
-- start constructive conversations on Slack and StackExchange
+- Start constructive conversations on [Slack](https://ibm.co/joinqiskitslack) and [StackExchange](https://quantumcomputing.stackexchange.com/)
