@@ -40,7 +40,7 @@ We welcome anyone who is enthusiastic about quantum computing and eager to grow 
 Here are the steps for applying to become an advocate:
 
 1. **Make at least 3 contributions to Qiskit code and community (now - Jul 1, 2021)**
-Community contributions can vary depending on individual interests including code, tutorials, textbook chapters, bug reporting, Slack support, blogs, videos, events, and more. See the Contribution section below for different types of contributions that you could make.
+Community contributions can vary depending on individual interests including code, tutorials, textbook chapters, bug reporting, Slack support, blogs, videos, events, and more. See the [Contributions](#contributions) section below for different types of contributions that you could make.
 1. **Take the advocate test (Jun 1 - Jul 1, 2021)**
 This should take 90 minutes depending on your knowledge of Qiskit.
 1. **Submit application form (Jun 1 - Jul 1, 2021)**
@@ -104,11 +104,10 @@ Both quantity and quality of contributions will be examined by us. For example, 
 
 ### Resources for making great contributions
 
-- [Learn Qiskit](https://qiskit.org/learn/)
-- [Make open source contributions](https://medium.com/qiskit/how-do-you-contribute-to-the-qiskit-community-9f4a42cd2500)
-- Contribute to code base ([Qiskit Github](https://github.com/Qiskit))
-- [Start a QC club](https://medium.com/qiskit/quantum-clubs-could-be-your-ticket-into-the-quantum-computing-field-8a29541384fb)
-- [Organise a Qiskit hackathon](https://slides.com/huangjunye/how-to-organize-a-qiskit-hackathon)
-- Conduct workshops and give talks ([Qiskit Virtual Event Guide](https://qiskit-community.github.io/virtual-event-guide/)) <!-- add more here and review -->
-- Start constructive conversations on [Slack](https://ibm.co/joinqiskitslack) and [StackExchange](https://quantumcomputing.stackexchange.com/)
-- Contribute to translations ([Qiskit Localization](https://github.com/qiskit-community/qiskit-translations#to-sign-up-to-participate-in-translations))
+- Make open source contributions
+    - [Coding with Qiskit S1E7: How to Contribute to Qiskit](https://www.youtube.com/watch?v=QjZdvNgYl3s&list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY&index=7) (video)
+    - [How Do You Contribute to the Qiskit Community?](https://medium.com/qiskit/how-do-you-contribute-to-the-qiskit-community-9f4a42cd2500) (blog post)
+- Contribute to translations: [Qiskit Localization project](https://github.com/qiskit-community/qiskit-translations#to-sign-up-to-participate-in-translations)
+- Start a QC club: [Quantum Clubs Could Be Your Ticket Into the Quantum Computing Field](https://medium.com/qiskit/quantum-clubs-could-be-your-ticket-into-the-quantum-computing-field-8a29541384fb) (blog post)
+- Organize a Qiskit hackathon: [How to Organize a Qiskit hackathon](https://slides.com/huangjunye/how-to-organize-a-qiskit-hackathon) (slides)
+- Conduct workshops and give talks: [Qiskit Virtual Event Guide](https://qiskit-community.github.io/virtual-event-guide/)
