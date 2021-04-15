@@ -17,23 +17,20 @@ As an advocate, you will have the opportunity to have your work supported and hi
 ### 4. Receiving invitations to events
 As an active advocate, you will be invited to global (physical or virtual) events created for the quantum community such as Qiskit Camps and IBM Quantum Challenges.
 
-## Highlights
+## Advocate highlights
 
-### By Advocates:
-- [Amir](https://medium.com/qiskit/ive-worked-in-game-development-my-whole-career-here-s-why-i-m-learning-quantum-computing-41bd179b70f2)
-- [Amira](https://medium.com/qiskit/i-worked-in-finance-heres-why-i-m-learning-quantum-computing-9c1ec9b0b4a2)
-- [Farai](https://medium.com/qiskit/join-qiskit-advocates-to-expand-your-network-and-grow-a48e390681b6)
-- [Jack](https://medium.com/qiskit/benefits-of-the-qiskit-advocate-qiskit-project-access-a9d7824bfd85)
-- [Kevin](https://medium.com/qiskit/im-a-maker-and-costume-designer-here-s-why-i-m-learning-quantum-computing-1972a51b43f7)
-- [Mark](https://markcunningham.tech/2020/07/07/how-i-got-started-in-the-world-of-quantum-computing-and-my-experiences-so-far-as-a-qiskit-advocate/)
-- [Omar](https://medium.com/qiskit/im-a-musician-and-here-s-why-i-m-learning-quantum-computing-db28c2aba7ac)
-- [Samanvay](https://medium.com/qiskit/quantum-events-are-even-better-as-a-qiskit-advocate-28e24e72dba9)
-- [Samuel](https://visbyrain.medium.com/%ED%95%99%EB%B6%80%EC%83%9D%EC%9D%80-ibm-qiskit-advocate%EB%A5%BC-%EA%BF%88%EA%BE%B8%EB%8A%94%EA%B0%80-767738a3082d)
-- [Vicente](https://medium.com/qiskit/why-i-became-a-qiskit-advocate-and-you-should-too-dc4ca7f6c6c5)
+- [Amir Ebrahimi](https://medium.com/qiskit/ive-worked-in-game-development-my-whole-career-here-s-why-i-m-learning-quantum-computing-41bd179b70f2): I’ve Worked in Game Development My Whole Career — Here’s Why I’m Learning Quantum Computing
+- [Amira Abbas](https://medium.com/qiskit/i-worked-in-finance-heres-why-i-m-learning-quantum-computing-9c1ec9b0b4a2): I Worked in Finance — Here’s Why I’m Learning Quantum Computing
+- [Farai Mazhandu](https://medium.com/qiskit/join-qiskit-advocates-to-expand-your-network-and-grow-a48e390681b6): Join Qiskit Advocates to Expand Your Network and Grow
+- [Jack Woehr](https://medium.com/qiskit/benefits-of-the-qiskit-advocate-qiskit-project-access-a9d7824bfd85): Benefits of the Qiskit Advocate: Qiskit Project Access
+- [Junye Huang](https://medium.com/qiskit/qiskit-advocate-applications-open-today-heres-what-you-can-expect-from-the-program-a1b7878f86b8): Qiskit Advocate Applications Open Today — Here’s What You Can Expect from the Program
+- [Kevin Roche](https://medium.com/qiskit/im-a-maker-and-costume-designer-here-s-why-i-m-learning-quantum-computing-1972a51b43f7): I’m a Maker and Costume Designer, Here’s Why I’m Learning Quantum Computing
+- [Mark Cunningham](https://markcunningham.tech/2020/07/07/how-i-got-started-in-the-world-of-quantum-computing-and-my-experiences-so-far-as-a-qiskit-advocate/): How I got started in the world of Quantum Computing and my experiences so far as a Qiskit Advocate!
+- [Omar Costa Hamido](https://medium.com/qiskit/im-a-musician-and-here-s-why-i-m-learning-quantum-computing-db28c2aba7ac): I’m a Musician, and Here’s Why I’m Learning Quantum Computing
+- [Samanvay Sharma](https://medium.com/qiskit/quantum-events-are-even-better-as-a-qiskit-advocate-28e24e72dba9): Quantum Events Are Even Better As A Qiskit Advocate
+- [Samuel Choi](https://visbyrain.medium.com/%ED%95%99%EB%B6%80%EC%83%9D%EC%9D%80-ibm-qiskit-advocate%EB%A5%BC-%EA%BF%88%EA%BE%B8%EB%8A%94%EA%B0%80-767738a3082d): 학부생은 IBM Qiskit Advocate를 꿈꾸는가? 2020: A Quantum Odyssey — and a year later
+- [Vicente Pina Canelles](https://medium.com/qiskit/why-i-became-a-qiskit-advocate-and-you-should-too-dc4ca7f6c6c5): Why I became a Qiskit Advocate, and why you should, too
 
-### Past edition blogs:
-- [Junye](https://medium.com/qiskit/qiskit-advocate-applications-open-today-heres-what-you-can-expect-from-the-program-a1b7878f86b8)
-- [Leron](https://medium.com/qiskit/become-a-qiskit-advocate-eb1da2990257)
 
 ## Who can apply?
 We welcome anyone who is enthusiastic about quantum computing and eager to grow the Qiskit community.
