@@ -61,6 +61,8 @@ The Qiskit advocate test is similar to the [Qiskit Developer Certification](http
 
 Here are some examples of contributions we consider valuable for the community. Tier 1 > Tier 2 > Tier 3 > Tier 4 in terms of significance.
 
+Both quantity and quality of contributions will be examined by us. For example, if you have been very active on Slack and answered many questions/participated in many meaningful discussions, these contributions will be considered higher importance than just answering two or three questions. On the other hand, a PR fixing a critical bug or adding a new feature to Qiskit will be considered more important than a few PRs fixing typos of Qiskit textbook chapters.
+
 ### Tier 1
 - Open source contributions that are significant
     - Qiskit code: [introduce new features](https://github.com/Qiskit/qiskit-terra/pull/2445)
@@ -79,16 +81,19 @@ Here are some examples of contributions we consider valuable for the community. 
 - [Start a quantum computing club](https://medium.com/qiskit/quantum-clubs-could-be-your-ticket-into-the-quantum-computing-field-8a29541384fb)
 - [Organize a quantum hackathon](https://slides.com/huangjunye/how-to-organize-a-qiskit-hackathon)
 - Create quantum / qiskit related content
+    - Create a popular [Blog site](https://thequantumaviary.blogspot.com)
     - Create a popular [YouTube channel](https://www.youtube.com/channel/UCzaYH6WeohiHKj3Ih_GdZdQ)
-    - Create a popular [Podcast](https://anchor.fm/quantumcomputingnow)
+    - Create a popular [Podcast series](https://anchor.fm/quantumcomputingnow)
 - Qiskit Localization Contributor - [Silver](https://www.credly.com/org/ibm/badge/qiskit-localization-contributor-silver-level-translator-2021)/[Bronze](https://www.credly.com/org/ibm/badge/qiskit-localization-contributor-bronze-level-translator-2021) Level Translator
 
 ### Tier 3
 - Open source contributions that are relatively simple
     - Qiskit code: [simple bug fix](https://github.com/Qiskit/qiskit-terra/pull/2956)
-- Create quantum / qiskit related content
-    - [Video](https://www.youtube.com/watch?v=aPCZcv-5qfA)
+- Create quantum / Qiskit related content
+    - [Videos](https://www.youtube.com/watch?v=aPCZcv-5qfA)
     - [Blogposts](https://medium.com/@huangjunye/from-qiskit-camp-to-qiskit-hackathon-singapore-6ef42ffcc3b)
+    - [Talks](https://www.youtube.com/watch?v=0FCno2V7JxQ)
+    - [Workshops](https://www.youtube.com/watch?v=GVepDuQ5bGg)
 - Individual Qiskit projects that are relatively simple.
 - Active participation of IBM Quantum / Qiskit events.
 
