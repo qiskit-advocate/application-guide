@@ -53,14 +53,48 @@ by July 1, 2021 11:59 PM EDT.
 
 *Dates may be subject to change*
 
-### Contributions
-- link to a separate document with contribution table and tiers
-- provide good examples of each type of contributions
-
-### Test
+## Test
 - [Qiskit Advocates 2020 Test](https://github.com/qiskit-community/qiskit-advocate-test)
 
-## guide for increasing the chances of getting selected (consider making it a separate file)
+## Contributions
+
+### Tier 1
+- Open source contributions that are significant
+    - Qiskit code: [introduce new features](https://github.com/Qiskit/qiskit-terra/pull/2445)
+    - Qiskit textbook: [new chapters](https://github.com/qiskit-community/qiskit-textbook/pull/452)
+    - Qiskit tutorials: [new tutorials](https://github.com/Qiskit/qiskit-tutorials/pull/1058)
+- [Research papers](https://arxiv.org/abs/2102.01153) using IBM Quantum systems / Qiskit
+- Winners of IBM Quantum / Qiskit events
+    - [IBM Quantum Challenge top 10](https://www.ibm.com/blogs/research/2020/12/quantum-challenge-fall-results/)
+    - [Qiskit Camps](https://medium.com/qiskit/recap-of-qiskit-camp-2019-4d95f07dd179)
+    - [Qiskit hackathons](https://medium.com/qiskit/feel-the-rhythm-of-quantum-with-our-qiskit-hackathon-korea-e80c27fdb9f9)
+    - [Open Science Prize](https://www.ibm.com/blogs/research/2020/11/open-science-prize/)
+- Qiskit Localization Contributor - [Platinum](https://www.credly.com/org/ibm/badge/qiskit-localization-contributor-platinum-level-translator-2021)/[Gold](https://www.credly.com/org/ibm/badge/qiskit-localization-contributor-gold-level-translator-2021) Level Translator
+
+### Tier 2
+- [Individual Qiskit projects](https://github.com/jwoehr/qisjob) that are comprehensive
+- [Start a quantum computing club](https://medium.com/qiskit/quantum-clubs-could-be-your-ticket-into-the-quantum-computing-field-8a29541384fb)
+- [Organize a quantum hackathon](https://slides.com/huangjunye/how-to-organize-a-qiskit-hackathon)
+- Create quantum / qiskit related content
+    - Create a popular [YouTube channel](https://www.youtube.com/channel/UCzaYH6WeohiHKj3Ih_GdZdQ)
+    - Create a popular [Podcast](https://anchor.fm/quantumcomputingnow)
+- Qiskit Localization Contributor - [Silver](https://www.credly.com/org/ibm/badge/qiskit-localization-contributor-silver-level-translator-2021)/[Bronze](https://www.credly.com/org/ibm/badge/qiskit-localization-contributor-bronze-level-translator-2021) Level Translator
+
+### Tier 3
+- Open source contributions that are relatively simple
+    - Qiskit code: [simple bug fix](https://github.com/Qiskit/qiskit-terra/pull/2956)
+- Create quantum / qiskit related content
+    - [Video](https://www.youtube.com/watch?v=aPCZcv-5qfA)
+    - [Blogposts](https://medium.com/@huangjunye/from-qiskit-camp-to-qiskit-hackathon-singapore-6ef42ffcc3b)
+- Individual Qiskit projects that are relatively simple.
+- Active participation of IBM Quantum / Qiskit events.
+
+### Tier 4
+- Qiskit textbook / tutorials: [fixing typos](https://github.com/Qiskit/qiskit-tutorials/pull/1125)
+- Qiskit Slack: constructive discussions
+- StackExchange: [accepted answers to Qiskit related questions](https://quantumcomputing.stackexchange.com/questions/6326/how-to-calculate-the-fidelity-of-a-certain-gate-of-a-ibmq-device-in-qiskit-using/6361#6361)
+
+### Resources for making great contributions
 
 - [Learn Qiskit](https://qiskit.org/learn/)
 - [Make open source contributions](https://medium.com/qiskit/how-do-you-contribute-to-the-qiskit-community-9f4a42cd2500)
