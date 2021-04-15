@@ -42,9 +42,9 @@ We welcome anyone who is enthusiastic about quantum computing and eager to grow 
 
 Here are the steps for applying to become an advocate:
 
-1. **Make at least 3 contributions to Qiskit code and community. (now - Jul 1, 2021)**
-Community contributions can vary depending on individual interests including code, tutorials, textbook chapters, bug reporting, Slack support, blogs, videos, events, and more. See here for different types of contributions that you could make.
-1. **Take the advocate test. (Jun 1 - Jul 1, 2021)**
+1. **Make at least 3 contributions to Qiskit code and community (now - Jul 1, 2021)**
+Community contributions can vary depending on individual interests including code, tutorials, textbook chapters, bug reporting, Slack support, blogs, videos, events, and more. See the Contribution section below for different types of contributions that you could make.
+1. **Take the advocate test (Jun 1 - Jul 1, 2021)**
 This should take 90 minutes depending on your knowledge of Qiskit.
 1. **Submit application form (Jun 1 - Jul 1, 2021)**
 by July 1, 2021 11:59 PM EDT.
@@ -54,9 +54,12 @@ by July 1, 2021 11:59 PM EDT.
 *Dates may be subject to change*
 
 ## Test
-- [Qiskit Advocates 2020 Test](https://github.com/qiskit-community/qiskit-advocate-test)
+
+[Here](https://github.com/qiskit-community/qiskit-advocate-test) is an example of the Qiskit advocate test from last year. The format for this year may change. But it will be multiple choice questions testing your Qiskit knowledge.
 
 ## Contributions
+
+Here are some examples of contributions we consider valuable for the community. Tier 1 > Tier 2 > Tier 3 > Tier 4 in terms of significance.
 
 ### Tier 1
 - Open source contributions that are significant
