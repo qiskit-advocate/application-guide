@@ -27,6 +27,7 @@ As an active advocate, you will be invited to global (physical or virtual) event
 - [Kevin Roche](https://medium.com/qiskit/im-a-maker-and-costume-designer-here-s-why-i-m-learning-quantum-computing-1972a51b43f7): I’m a Maker and Costume Designer, Here’s Why I’m Learning Quantum Computing
 - [Mark Cunningham](https://markcunningham.tech/2020/07/07/how-i-got-started-in-the-world-of-quantum-computing-and-my-experiences-so-far-as-a-qiskit-advocate/): How I got started in the world of Quantum Computing and my experiences so far as a Qiskit Advocate!
 - [Omar Costa Hamido](https://medium.com/qiskit/im-a-musician-and-here-s-why-i-m-learning-quantum-computing-db28c2aba7ac): I’m a Musician, and Here’s Why I’m Learning Quantum Computing
+- [Rochisha Agarwal](https://medium.com/@rochishaagarwal/how-i-became-a-qiskit-advocate-601cf59536cc): How I became a Qiskit Advocate
 - [Samanvay Sharma](https://medium.com/qiskit/quantum-events-are-even-better-as-a-qiskit-advocate-28e24e72dba9): Quantum Events Are Even Better As A Qiskit Advocate
 - [Samuel Choi](https://visbyrain.medium.com/%ED%95%99%EB%B6%80%EC%83%9D%EC%9D%80-ibm-qiskit-advocate%EB%A5%BC-%EA%BF%88%EA%BE%B8%EB%8A%94%EA%B0%80-767738a3082d): 학부생은 IBM Qiskit Advocate를 꿈꾸는가? 2020: A Quantum Odyssey — and a year later
 - [Vicente Pina Canelles](https://medium.com/qiskit/why-i-became-a-qiskit-advocate-and-you-should-too-dc4ca7f6c6c5): Why I became a Qiskit Advocate, and why you should, too
