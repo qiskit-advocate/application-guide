@@ -42,13 +42,13 @@ We welcome anyone who is enthusiastic about quantum computing and eager to grow 
 
 Here are the steps for applying to become an advocate:
 
-1. **Make contributions to Qiskit code and community (now - Jul 15, 2021)**
+1. **Make contributions to Qiskit code and community (now - July 15, 2021)**
 Community contributions can vary depending on individual interests including code, tutorials, textbook chapters, bug reporting, Slack support, blogs, videos, events, and more. See the [Contributions](#contributions) section below for different types of contributions that you could make.
-2. **Submit Application Form (Jun 1 - Jul 15, 2021)**
+2. **Submit Application Form (June 1 - July 15, 2021)**
 No later than July 15, 2021, 11:59 p.m. EDT. The Application Form will bemade available on June 1, 2021. 
-3. **Take the Advocate test (Jun 1 - August 1, 2021)**
+3. **Take the Advocate test (June 1 - August 1, 2021)**
 This should take 90 minutes depending on your knowledge of Qiskit. You must submit the application to receive a voucher code to take the exam. The exam is proctored and will need to be scheduled, so please keep this in mind when submitting your materials and give yourself plenty of time and apply early!
-4. **Application review (June 1 - Aug 15, 2021)** conducted by the Qiskit advocate squad
+4. **Application review (June 1 - August 15, 2021)** conducted by the Qiskit advocate squad
 Applications will be reviewed on a rolling basis and all application requirements, including the test, must be finished by August 1, 2021 at 11:59 p.m. EDT. 
 
 ## Test
