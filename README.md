@@ -49,7 +49,7 @@ Applications must be submitted no later than July 15, 2021, 11:59 p.m. EDT. The 
 3. **Take the Advocate test (June 1 - August 1, 2021)**
 This should take 90 minutes depending on your knowledge of Qiskit. You must submit the application to receive a voucher code to take the exam. The exam is proctored and will need to be scheduled, so please keep this in mind when submitting your materials and give yourself plenty of time and apply early!
 4. **Application review (June 1 - August 15, 2021)** 
-Applications will be reviewed Qiskit advocate squad on a rolling basis and all application requirements, including the test, must be finished by August 1, 2021 at 11:59 p.m. EDT. 
+Applications will be reviewed by the Qiskit advocate squad on a rolling basis. All application requirements, including the test, must be finished by August 1, 2021 at 11:59 p.m. EDT. 
 
 ## Test
 
