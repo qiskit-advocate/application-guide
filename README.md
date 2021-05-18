@@ -42,31 +42,29 @@ We welcome anyone who is enthusiastic about quantum computing and eager to grow 
 
 Here are the steps for applying to become an advocate:
 
-1. **Make at least 3 contributions to Qiskit code and community (now - Jul 1, 2021)**
+1. **Make contributions to Qiskit code and community (now - Jul 15, 2021)**
 Community contributions can vary depending on individual interests including code, tutorials, textbook chapters, bug reporting, Slack support, blogs, videos, events, and more. See the [Contributions](#contributions) section below for different types of contributions that you could make.
-1. **Take the advocate test (Jun 1 - Jul 1, 2021)**
-This should take 90 minutes depending on your knowledge of Qiskit.
-1. **Submit application form (Jun 1 - Jul 1, 2021)**
-by July 1, 2021 11:59 PM EDT.
-1. **Application review (Jul 1 - Aug 1, 2021)** conducted by the Qiskit advocate squad
-1. **Onboarding (Aug 5, 2021)**
-
-*Dates may be subject to change*
+2. **Submit Application Form (Jun 1 - Jul 15, 2021)**
+No later than July 15, 2021, 11:59 p.m. EDT. The Application Form will bemade available on June 1, 2021. 
+3. **Take the Advocate test (Jun 1 - August 1, 2021)**
+This should take 90 minutes depending on your knowledge of Qiskit. You must submit the application to receive a voucher code to take the exam. The exam is proctored and will need to be scheduled, so please keep this in mind when submitting your materials and give yourself plenty of time and apply early!
+4. **Application review (June 1 - Aug 15, 2021)** conducted by the Qiskit advocate squad
+Applications will be reviewed on a rolling basis and all application requirements, including the test, must be finished by August 1, 2021 at 11:59 p.m. EDT. 
 
 ## Test
 
-The Qiskit advocate test is similar to the [Qiskit Developer Certification](https://www.ibm.com/blogs/research/2021/03/quantum-developer-certification/). Here's a [sample test](https://www.ibm.com/certify/api/getpdf/sampletests/samc1000_112) and a [study guide](https://www.ibm.com/certify/api/getpdf/studyguides/stuc1000_112) for the developer certification. You can read more [here](https://medium.com/qiskit/learn-more-about-the-ibm-quantum-developer-certification-and-how-to-take-it-for-free-d237f9765dc5) about how to prepare for the test.
+The Qiskit advocate test will be the [Qiskit Developer Certification](https://www.ibm.com/blogs/research/2021/03/quantum-developer-certification/). Here's a [sample test](https://www.ibm.com/certify/api/getpdf/sampletests/samc1000_112) and a [study guide](https://www.ibm.com/certify/api/getpdf/studyguides/stuc1000_112) for the developer certification. You can read more [here](https://medium.com/qiskit/learn-more-about-the-ibm-quantum-developer-certification-and-how-to-take-it-for-free-d237f9765dc5) about how to prepare for the test.
 
-[Here](https://github.com/qiskit-community/qiskit-advocate-test) is an example of the Qiskit advocate test from last year. The format for this year may change. But it will be multiple choice questions testing your Qiskit knowledge.
+[Here](https://github.com/qiskit-community/qiskit-advocate-test) is an example of the Qiskit advocate test from last year.
 
 
 ## Contributions
 
 Here are some examples of contributions we consider valuable for the community. Tier 1 > Tier 2 > Tier 3 > Tier 4 in terms of significance.
 
-Both quantity and quality of contributions will be examined by us. For example, if you have been very active on Slack and answered many questions/participated in many meaningful discussions, these contributions will be considered higher importance than just answering two or three questions. On the other hand, a PR fixing a critical bug or adding a new feature to Qiskit will be considered more important than a few PRs fixing typos of Qiskit textbook chapters.
+Both quantity and quality of contributions will be examined by us. For example, if you have been very active on Slack and answered many questions/participated in many meaningful discussions, these contributions will be considered higher importance than just answering two or three questions. On the other hand, a PR fixing a critical bug or adding a new feature to Qiskit will be considered more important than a few PRs fixing typos of Qiskit textbook chapters. Each submitted contribution will be scored by the application reviewers. You must score at least 20 points to be admiitted into the program. Below are examples of some common contributions and the anticipated range of points we attribute to those contributions. This rubric gives guidance to the applicant, but is not exhaustive and may not cover every type of contribution and scores may vary in exceptional circumstances.
 
-### Tier 1
+### Tier 1 (12-15)
 - Open source contributions that are significant
     - Qiskit code: [introduce new features](https://github.com/Qiskit/qiskit-terra/pull/2445)
     - Qiskit textbook: [new chapters](https://github.com/qiskit-community/qiskit-textbook/pull/452)
@@ -79,7 +77,7 @@ Both quantity and quality of contributions will be examined by us. For example, 
     - [Open Science Prize](https://www.ibm.com/blogs/research/2020/11/open-science-prize/)
 - Qiskit Localization Contributor - [Platinum](https://www.credly.com/org/ibm/badge/qiskit-localization-contributor-platinum-level-translator-2021)/[Gold](https://www.credly.com/org/ibm/badge/qiskit-localization-contributor-gold-level-translator-2021) Level Translator
 
-### Tier 2
+### Tier 2 (8-12)
 - [Individual Qiskit projects](https://github.com/jwoehr/qisjob) that are comprehensive
 - [Start a quantum computing club](https://medium.com/qiskit/quantum-clubs-could-be-your-ticket-into-the-quantum-computing-field-8a29541384fb)
 - [Organize a quantum hackathon](https://slides.com/huangjunye/how-to-organize-a-qiskit-hackathon)
@@ -89,7 +87,7 @@ Both quantity and quality of contributions will be examined by us. For example, 
     - Create a popular [Podcast series](https://anchor.fm/quantumcomputingnow)
 - Qiskit Localization Contributor - [Silver](https://www.credly.com/org/ibm/badge/qiskit-localization-contributor-silver-level-translator-2021)/[Bronze](https://www.credly.com/org/ibm/badge/qiskit-localization-contributor-bronze-level-translator-2021) Level Translator
 
-### Tier 3
+### Tier 3 (4-8)
 - Open source contributions that are relatively simple
     - Qiskit code: [simple bug fix](https://github.com/Qiskit/qiskit-terra/pull/2956)
 - Create quantum / Qiskit related content
@@ -100,7 +98,7 @@ Both quantity and quality of contributions will be examined by us. For example, 
 - Individual Qiskit projects that are relatively simple.
 - Active participation of IBM Quantum / Qiskit events.
 
-### Tier 4
+### Tier 4 (1-4)
 - Qiskit textbook / tutorials: [fixing typos](https://github.com/Qiskit/qiskit-tutorials/pull/1125)
 - Qiskit Slack: constructive discussions
 - StackExchange: [accepted answers to Qiskit related questions](https://quantumcomputing.stackexchange.com/questions/6326/how-to-calculate-the-fidelity-of-a-certain-gate-of-a-ibmq-device-in-qiskit-using/6361#6361)
