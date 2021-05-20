@@ -59,9 +59,9 @@ The Qiskit advocate test will be the [Qiskit Developer Certification](https://ww
 
 Here are some examples of contributions we consider valuable for the community. Tier 1 > Tier 2 > Tier 3 > Tier 4 in terms of significance.
 
-Both quantity and quality of contributions will be examined by us. For example, if you have been very active on Slack and answered many questions/participated in many meaningful discussions, these contributions will be considered higher importance than just answering two or three questions. On the other hand, a PR fixing a critical bug or adding a new feature to Qiskit will be considered more important than a few PRs fixing typos of Qiskit textbook chapters. Each submitted contribution will be scored by the application reviewers. You must score at least 20 points to be admiitted into the program. Below are examples of some common contributions and the anticipated range of points we attribute to those contributions. This rubric gives guidance to the applicant, but is not exhaustive and may not cover every type of contribution and scores may vary in exceptional circumstances.
+Both quantity and quality of contributions will be examined by us. For example, if you have been very active on Slack and answered many questions/participated in many meaningful discussions, these contributions will be considered higher importance than just answering two or three questions. On the other hand, a PR fixing a critical bug or adding a new feature to Qiskit will be considered more important than a few PRs fixing typos of Qiskit textbook chapters. Each submitted contribution will be scored by the application reviewers. You must score at least 20 points to be considered for the program. Below are examples of some common contributions and the anticipated range of points we attribute to those contributions. This rubric gives guidance to the applicant, but is not exhaustive and may not cover every type of contribution and scores may vary in exceptional circumstances.
 
-### Tier 1 (12-15)
+### Tier 1 (12-15 points)
 - Open source contributions that are significant
     - Qiskit code: [introduce new features](https://github.com/Qiskit/qiskit-terra/pull/2445)
     - Qiskit textbook: [new chapters](https://github.com/qiskit-community/qiskit-textbook/pull/452)
@@ -74,7 +74,7 @@ Both quantity and quality of contributions will be examined by us. For example, 
     - [Open Science Prize](https://www.ibm.com/blogs/research/2020/11/open-science-prize/)
 - Qiskit Localization Contributor - [Platinum](https://www.credly.com/org/ibm/badge/qiskit-localization-contributor-platinum-level-translator-2021)/[Gold](https://www.credly.com/org/ibm/badge/qiskit-localization-contributor-gold-level-translator-2021) Level Translator
 
-### Tier 2 (8-12)
+### Tier 2 (8-12 points)
 - [Individual Qiskit projects](https://github.com/jwoehr/qisjob) that are comprehensive
 - [Start a quantum computing club](https://medium.com/qiskit/quantum-clubs-could-be-your-ticket-into-the-quantum-computing-field-8a29541384fb)
 - [Organize a quantum hackathon](https://slides.com/huangjunye/how-to-organize-a-qiskit-hackathon)
@@ -84,7 +84,7 @@ Both quantity and quality of contributions will be examined by us. For example, 
     - Create a popular [Podcast series](https://anchor.fm/quantumcomputingnow)
 - Qiskit Localization Contributor - [Silver](https://www.credly.com/org/ibm/badge/qiskit-localization-contributor-silver-level-translator-2021)/[Bronze](https://www.credly.com/org/ibm/badge/qiskit-localization-contributor-bronze-level-translator-2021) Level Translator
 
-### Tier 3 (4-8)
+### Tier 3 (4-8 points)
 - Open source contributions that are relatively simple
     - Qiskit code: [simple bug fix](https://github.com/Qiskit/qiskit-terra/pull/2956)
 - Create quantum / Qiskit related content
@@ -95,7 +95,7 @@ Both quantity and quality of contributions will be examined by us. For example, 
 - Individual Qiskit projects that are relatively simple.
 - Active participation of IBM Quantum / Qiskit events.
 
-### Tier 4 (1-4)
+### Tier 4 (1-4 points)
 - Qiskit textbook / tutorials: [fixing typos](https://github.com/Qiskit/qiskit-tutorials/pull/1125)
 - Qiskit Slack: constructive discussions
 - StackExchange: [accepted answers to Qiskit related questions](https://quantumcomputing.stackexchange.com/questions/6326/how-to-calculate-the-fidelity-of-a-certain-gate-of-a-ibmq-device-in-qiskit-using/6361#6361)
