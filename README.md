@@ -55,9 +55,6 @@ Applications will be reviewed by the Qiskit advocate squad on a rolling basis. A
 
 The Qiskit advocate test will be the [Qiskit Developer Certification](https://www.ibm.com/blogs/research/2021/03/quantum-developer-certification/). Here's a [sample test](https://www.ibm.com/certify/api/getpdf/sampletests/samc1000_112) and a [study guide](https://www.ibm.com/certify/api/getpdf/studyguides/stuc1000_112) for the developer certification. You can read more [here](https://medium.com/qiskit/learn-more-about-the-ibm-quantum-developer-certification-and-how-to-take-it-for-free-d237f9765dc5) about how to prepare for the test.
 
-[Here](https://github.com/qiskit-community/qiskit-advocate-test) is an example of the Qiskit advocate test from last year.
-
-
 ## Contributions
 
 Here are some examples of contributions we consider valuable for the community. Tier 1 > Tier 2 > Tier 3 > Tier 4 in terms of significance.
