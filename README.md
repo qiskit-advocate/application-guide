@@ -113,4 +113,4 @@ Both quantity and quality of contributions will be examined by us. For example, 
 
 ### Questions?
 
-Have questions? Make sure to join [#qiskit-advocates-application](https://qiskit.slack.com/archives/CMXDMFNN5) in the [Qiskit slack(https://join.slack.com/t/qiskit/shared_invite/zt-mzwbsrki-9gcLoxprMkFNm9kgHYBP8g).
+Have questions? Make sure to join [#qiskit-advocates-application](https://qiskit.slack.com/archives/CMXDMFNN5) in the [Qiskit slack](https://join.slack.com/t/qiskit/shared_invite/zt-mzwbsrki-9gcLoxprMkFNm9kgHYBP8g).
