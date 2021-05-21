@@ -26,6 +26,7 @@ As an active advocate, you will be invited to global (physical or virtual) event
 - [Jack Woehr](https://medium.com/qiskit/benefits-of-the-qiskit-advocate-qiskit-project-access-a9d7824bfd85): Benefits of the Qiskit Advocate: Qiskit Project Access
 - [Junye Huang](https://medium.com/qiskit/qiskit-advocate-applications-open-today-heres-what-you-can-expect-from-the-program-a1b7878f86b8): Qiskit Advocate Applications Open Today — Here’s What You Can Expect from the Program
 - [Kevin Roche](https://medium.com/qiskit/im-a-maker-and-costume-designer-here-s-why-i-m-learning-quantum-computing-1972a51b43f7): I’m a Maker and Costume Designer, Here’s Why I’m Learning Quantum Computing
+-  [Kiran Johns](https://www.kiranjohns.com/blog/going-quantum/): Going Quantum, my journey so far as a Qiskit Advocate and a reflection on the things I learned
 - [Mark Cunningham](https://markcunningham.tech/2020/07/07/how-i-got-started-in-the-world-of-quantum-computing-and-my-experiences-so-far-as-a-qiskit-advocate/): How I got started in the world of Quantum Computing and my experiences so far as a Qiskit Advocate!
 - [Omar Costa Hamido](https://medium.com/qiskit/im-a-musician-and-here-s-why-i-m-learning-quantum-computing-db28c2aba7ac): I’m a Musician, and Here’s Why I’m Learning Quantum Computing
 - [Rochisha Agarwal](https://medium.com/@rochishaagarwal/how-i-became-a-qiskit-advocate-601cf59536cc): How I became a Qiskit Advocate
