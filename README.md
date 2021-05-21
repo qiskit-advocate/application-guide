@@ -110,3 +110,7 @@ Both quantity and quality of contributions will be examined by us. For example, 
 - Start a QC club: [Quantum Clubs Could Be Your Ticket Into the Quantum Computing Field](https://medium.com/qiskit/quantum-clubs-could-be-your-ticket-into-the-quantum-computing-field-8a29541384fb) (blog post)
 - Organize a Qiskit hackathon: [How to Organize a Qiskit hackathon](https://slides.com/huangjunye/how-to-organize-a-qiskit-hackathon) (slides)
 - Conduct workshops and give talks: [Qiskit Virtual Event Guide](https://qiskit-community.github.io/virtual-event-guide/)
+
+### Questions?
+
+Have questions? Make sure to join [#qiskit-advocates-application](https://qiskit.slack.com/archives/CMXDMFNN5) in the [Qiskit slack(https://join.slack.com/t/qiskit/shared_invite/zt-mzwbsrki-9gcLoxprMkFNm9kgHYBP8g).
