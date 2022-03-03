@@ -48,7 +48,7 @@ Here are the steps for applying to become an advocate:
 1. **Make contributions to Qiskit code and community (Deadline: Jul 1, 2022)**
 Community contributions can vary depending on individual interests including code, tutorials, textbook chapters, bug reporting, Slack support, blogs, videos, events, and more. See the [Contributions](#contributions) section below for different types of contributions that you could make. All contributions must be made before Jul 1, 2022 and submitted as part of your application. 
 2. **Take the Qiskit Developer Certification test (Apr 1 - Jul 1, 2022)**
-Passing Qisit Developer Certification test is one of the requirements for becoming a Qiskit advocate. A voucher code will be available for you to take the exam after Apr 1, 2022. The exam is proctored and will need to be scheduled, so please keep this in mind when submitting your materials and give yourself plenty of time and apply early! See the [Test](#test) section below for more details.
+Passing Qiskit Developer Certification test is one of the requirements for becoming a Qiskit advocate. A voucher code will be available for you to take the exam after Apr 1, 2022. The exam is proctored and will need to be scheduled, so please keep this in mind when submitting your materials and give yourself plenty of time and apply early! See the [Test](#test) section below for more details.
 3. **Submit Application Form (Jun 1 - Jul 1, 2022)**
 Applications must be submitted no later than Jul 1, 2022, 11:59 p.m. EDT. The Application Form will be made available on Jun 1, 2022. 
 4. **Application review (Jun 1 - Jul 15, 2022)** 
@@ -56,7 +56,7 @@ Applications will be reviewed by the Qiskit advocate squad on a rolling basis. A
 
 ## Test
 
-The Qiskit advocate test will be the [Qiskit Developer Certification](https://www.ibm.com/blogs/research/2021/03/quantum-developer-certification/). Here's a [sample test](https://www.ibm.com/certify/api/getpdf/sampletests/samc1000_112) and a [study guide](https://www.ibm.com/certify/api/getpdf/studyguides/stuc1000_112) for the developer certification. You can read more [here](https://medium.com/qiskit/learn-more-about-the-ibm-quantum-developer-certification-and-how-to-take-it-for-free-d237f9765dc5) about how to prepare for the test.
+The [Qiskit Developer Certification](https://www.ibm.com/blogs/research/2021/03/quantum-developer-certification/) is used to assess your technical competency of Qiskit. You can find exam format, scope and resources on [the official website](https://www.ibm.com/training/certification/C0010300). You can read more [here](https://medium.com/qiskit/learn-more-about-the-ibm-quantum-developer-certification-and-how-to-take-it-for-free-d237f9765dc5) about how to prepare for the test. Join the [#qiskit-cert-exam](https://qiskit.slack.com/archives/C0272SW2L0H) channel in the [Qiskit Slack workspace](https://ibm.co/joinqiskitslack) to find even more learning resources, ask questions and interact with others who are also interested in taking the test.
 
 ## Contributions
 
@@ -115,4 +115,4 @@ Both quantity and quality of contributions will be examined by us. For example, 
 
 ### Questions?
 
-Have questions? Make sure to join [#qiskit-advocates-application](https://qiskit.slack.com/archives/CMXDMFNN5) in the [Qiskit slack](https://join.slack.com/t/qiskit/shared_invite/zt-mzwbsrki-9gcLoxprMkFNm9kgHYBP8g).
+Have questions? Make sure to join [#qiskit-advocates-application](https://qiskit.slack.com/archives/CMXDMFNN5) in the [Qiskit Slack workspace](https://ibm.co/joinqiskitslack).
