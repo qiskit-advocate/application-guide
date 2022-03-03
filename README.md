@@ -48,7 +48,7 @@ Here are the steps for applying to become an advocate:
 1. **Make contributions to Qiskit code and community (Deadline: Jul 1, 2022)**
 Community contributions can vary depending on individual interests including code, tutorials, textbook chapters, bug reporting, Slack support, blogs, videos, events, and more. See the [Contributions](#contributions) section below for different types of contributions that you could make. All contributions must be made before Jul 1, 2022 and submitted as part of your application. 
 2. **Take the Qiskit Developer Certification test (Apr 1 - Jul 1, 2022)**
-Passing Qiskit Developer Certification test is one of the requirements for becoming a Qiskit advocate. A voucher code will be available for you to take the exam after Apr 1, 2022. The exam is proctored and will need to be scheduled, so please keep this in mind when submitting your materials and give yourself plenty of time and apply early! See the [Test](#test) section below for more details.
+Passing Qiskit Developer Certification test is one of the requirements for becoming a Qiskit advocate. A voucher code will be available on this application guide for you to take the exam after Apr 1, 2022. The exam is proctored and will need to be scheduled, so please keep this in mind when submitting your materials and give yourself plenty of time and apply early! See the [Test](#test) section below for more details.
 3. **Submit Application Form (Jun 1 - Jul 1, 2022)**
 Applications must be submitted no later than Jul 1, 2022, 11:59 p.m. EDT. The Application Form will be made available on Jun 1, 2022. 
 4. **Application review (Jun 1 - Jul 15, 2022)** 
@@ -115,4 +115,4 @@ Both quantity and quality of contributions will be examined by us. For example, 
 
 ### Questions?
 
-Have questions? Make sure to join [#qiskit-advocates-application](https://qiskit.slack.com/archives/CMXDMFNN5) in the [Qiskit Slack workspace](https://ibm.co/joinqiskitslack).
+Have questions? Make sure to join [#qiskit-advocates-application](https://qiskit.slack.com/archives/CMXDMFNN5) in the [Qiskit Slack workspace](https://ibm.co/joinqiskitslack). Sign up [the interest form](https://airtable.com/shrt7lqrHDWO56W9x) to receive updates when the next application round open.
