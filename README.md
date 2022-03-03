@@ -1,9 +1,11 @@
 # Qiskit Advocates Application Guide
 
-## What is the Qiskit advocate program?
-The Qiskit advocate program is a global initiative to support the most active members of the Qiskit community. As an advocate, you will join the most passionate group of people in quantum computing. Since the program was launched two years ago, [more than 200 people with diverse backgrounds from  30+ countries have joined](https://qiskit.org/advocates/). We work together to grow the Qiskit community through organizing events, making open source contributions to Qiskit code, creating educational content, and more.
+*New: 2022 application details have been announced! Please check out the [How you can apply](#how-you-can-apply) section.*
 
-## Why you should apply:
+## What is the Qiskit advocate program?
+The Qiskit advocate program is a global initiative to support the most active members of the Qiskit community. As an advocate, you will join the most passionate group of people in quantum computing. Since the program was launched two years ago, [more than 300 people with diverse backgrounds from  30+ countries have joined](https://qiskit.org/advocates/). We work together to grow the Qiskit community through organizing events, making open source contributions to Qiskit code, creating educational content, and more.
+
+## Why you should apply
 
 ### 1. Networking with experts and enthusiasts
 As an advocate, you will be able to attend monthly meetup sessions to share projects and ideas and work together with fellow advocates on new projects and events.
@@ -39,7 +41,7 @@ As an active advocate, you will be invited to global (physical or virtual) event
 ## Who can apply?
 We welcome anyone who is enthusiastic about quantum computing and eager to grow the Qiskit community.
 
-## How you can apply:
+## How you can apply
 
 Here are the steps for applying to become an advocate:
 
@@ -115,4 +117,4 @@ Both quantity and quality of contributions will be examined by us. For example, 
 
 ### Questions?
 
-Have questions? Make sure to join [#qiskit-advocates-application](https://qiskit.slack.com/archives/CMXDMFNN5) in the [Qiskit Slack workspace](https://ibm.co/joinqiskitslack). Sign up [the interest form](https://airtable.com/shrt7lqrHDWO56W9x) to receive updates when the next application round open.
+Make sure to join [#qiskit-advocates-application](https://qiskit.slack.com/archives/CMXDMFNN5) in the [Qiskit Slack workspace](https://ibm.co/joinqiskitslack) where you can ask any questions about the application. Sign up [the interest form](https://airtable.com/shrt7lqrHDWO56W9x) to receive updates when the next application round open.
