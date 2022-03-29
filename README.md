@@ -49,7 +49,7 @@ Here are the steps for applying to become an advocate:
 
 1. **Make contributions to Qiskit code and community (Deadline: Jul 1, 2022)**
 Community contributions can vary depending on individual interests including code, tutorials, textbook chapters, bug reporting, Slack support, blogs, videos, events, and more. See the [Contributions](#contributions) section below for different types of contributions that you could make. All contributions must be made before Jul 1, 2022 and submitted as part of your application. 
-2. **Take the Qiskit Developer Certification test (Apr 1 - Jul 1, 2022)**
+2. **Take the Qiskit Developer Certification test (Deadline: Jul 1, 2022)**
 Passing Qiskit Developer Certification test is one of the requirements for becoming a Qiskit advocate. The exam is proctored and will need to be scheduled, so please keep this in mind when submitting your materials and give yourself plenty of time and apply early! You can get a voucher to take the test. See the [Test](#test) section below for more details.
 3. **Submit Application Form (Jun 1 - Jul 1, 2022)**
 Applications must be submitted no later than Jul 1, 2022, 11:59 p.m. EDT. The Application Form will be made available on Jun 1, 2022. 
