@@ -110,9 +110,11 @@ Both quantity and quality of contributions will be examined by us. For example, 
 ### Resources for making great contributions
 
 - Make open source contributions
-    - [Coding with Qiskit S1E7: How to Contribute to Qiskit](https://www.youtube.com/watch?v=QjZdvNgYl3s&list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY&index=7) (video)
+    - [The Ultimate Guide for Contributing to Qiskit — No Matter Your Background](https://medium.com/qiskit/the-ultimate-guide-for-contributing-to-qiskit-no-matter-your-background-f709470b0461)  (blog post)
     - [How Do You Contribute to the Qiskit Community?](https://medium.com/qiskit/how-do-you-contribute-to-the-qiskit-community-9f4a42cd2500) (blog post)
-- Contribute to translations: [Qiskit Localization project](https://github.com/qiskit-community/qiskit-translations#to-sign-up-to-participate-in-translations)
+    - [Coding with Qiskit S1E7: How to Contribute to Qiskit](https://www.youtube.com/watch?v=QjZdvNgYl3s&list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY&index=7) (video)
+    - [A Contributors Guide to Installing Qiskit](https://youtu.be/Pix2MFCtiOo) (video)
+- Contribute to translations: [Qiskit Localization project](https://github.com/qiskit-community/qiskit-translations#to-sign-up-to-participate-in-translations) 
 - Start a QC club: [Quantum Clubs Could Be Your Ticket Into the Quantum Computing Field](https://medium.com/qiskit/quantum-clubs-could-be-your-ticket-into-the-quantum-computing-field-8a29541384fb) (blog post)
 - Organize a Qiskit hackathon: [How to Organize a Qiskit hackathon](https://slides.com/huangjunye/how-to-organize-a-qiskit-hackathon) (slides)
 - Conduct workshops and give talks: [Qiskit Virtual Event Guide](https://qiskit-community.github.io/virtual-event-guide/)
