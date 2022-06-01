@@ -52,7 +52,7 @@ Community contributions can vary depending on individual interests including cod
 2. **Take the Qiskit Developer Certification test (Deadline: Jul 1, 2022)**
 Passing Qiskit Developer Certification test is one of the requirements for becoming a Qiskit advocate. The exam is proctored and will need to be scheduled, so please keep this in mind when submitting your materials and give yourself plenty of time and apply early! You can get a voucher to take the test. See the [Test](#test) section below for more details.
 3. **Submit Application Form (Jun 1 - Jul 1, 2022)**
-Applications must be submitted no later than Jul 1, 2022, 11:59 p.m. EDT. The Application Form will be made available on Jun 1, 2022. 
+Applications must be submitted no later than Jul 1, 2022, 11:59 p.m. EDT. Click "Join the program" on the Qiskit advocate website: https://qiskit.org/advocates/ to apply.
 4. **Application review (Jun 1 - Jul 15, 2022)** 
 Applications will be reviewed by the Qiskit advocate squad on a rolling basis. All application requirements, including the test, must be finished by Jul 1, 2022 at 11:59 p.m. EDT. 
 
