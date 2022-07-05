@@ -79,7 +79,7 @@ Both quantity and quality of contributions will be examined by us. For example, 
     - [Qiskit Camps](https://medium.com/qiskit/recap-of-qiskit-camp-2019-4d95f07dd179)
     - [Qiskit hackathons](https://medium.com/qiskit/feel-the-rhythm-of-quantum-with-our-qiskit-hackathon-korea-e80c27fdb9f9)
     - [Open Science Prize](https://www.ibm.com/blogs/research/2020/11/open-science-prize/)
-- Qiskit Localization Contributor - [Platinum](https://www.credly.com/org/ibm/badge/qiskit-localization-contributor-platinum-level-translator-2021)/[Gold](https://www.credly.com/org/ibm/badge/qiskit-localization-contributor-gold-level-translator-2021) Level Translator
+- Qiskit Localization Contributor - [Platinum](https://www.credly.com/org/ibm/badge/qiskit-localization-contributor-platinum-level-translator-2022)/[Gold](https://www.credly.com/org/ibm/badge/qiskit-localization-contributor-gold-level-translator-2022) Level Translator
 
 ### Tier 2 (8-12 points)
 - [Individual Qiskit projects](https://github.com/jwoehr/qisjob) that are comprehensive
@@ -89,7 +89,7 @@ Both quantity and quality of contributions will be examined by us. For example, 
     - Create a popular [Blog site](https://thequantumaviary.blogspot.com)
     - Create a popular [YouTube channel](https://www.youtube.com/channel/UCzaYH6WeohiHKj3Ih_GdZdQ)
     - Create a popular [Podcast series](https://anchor.fm/quantumcomputingnow)
-- Qiskit Localization Contributor - [Silver](https://www.credly.com/org/ibm/badge/qiskit-localization-contributor-silver-level-translator-2021)/[Bronze](https://www.credly.com/org/ibm/badge/qiskit-localization-contributor-bronze-level-translator-2021) Level Translator
+- Qiskit Localization Contributor - [Silver](https://www.credly.com/org/ibm/badge/qiskit-localization-contributor-silver-level-translator-2022)/[Bronze](https://www.credly.com/org/ibm/badge/qiskit-localization-contributor-bronze-level-translator-2022) Level Translator
 
 ### Tier 3 (4-8 points)
 - Open source contributions that are relatively simple
