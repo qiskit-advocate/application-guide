@@ -60,7 +60,7 @@ Applications will be reviewed by the Qiskit advocate squad on a rolling basis. A
 
 The [Qiskit Developer Certification](https://www.ibm.com/blogs/research/2021/03/quantum-developer-certification/) is used to assess your technical competency of Qiskit. You can find exam format, scope and resources on [the official website](https://www.ibm.com/training/certification/C0010300). You can read more [here](https://medium.com/qiskit/learn-more-about-the-ibm-quantum-developer-certification-and-how-to-take-it-for-free-d237f9765dc5) about how to prepare for the test. Join the [#qiskit-cert-exam](https://qiskit.slack.com/archives/C0272SW2L0H) channel in the [Qiskit Slack workspace](https://ibm.co/joinqiskitslack) to find even more learning resources, ask questions and interact with others who are also interested in taking the test.
 
-**Voucher!** You can get a voucher to take the test by filling [this form](https://airtable.com/shrEZlRker8zUukUf). 
+**Vouchers:** Unfortunately, and we are not offering vouchers at this time. There will be select opportunities to receive a voucher in 2023.
 
 ## Contributions
 
