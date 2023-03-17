@@ -8,8 +8,11 @@ The badge earner has successfully completed the Qiskit Advocate exam, made signi
 
 ### Additional Information
 Duration: Approx 6 hours
+
 Learning Link: https://www.ibm.com/training/badge/qiskit-advocate
+
 Credly Acclaim Link: https://www.credly.com/org/ibm/badge/qiskit-advocate
+
 Badge Contact: Qiskit Advocate Squad (qiskit@us.ibm.com)
 
 Credly Support: For questions related to your Credly badge earner account and profile, as well as issues related to claiming your badge after receiving a notification, go to https://support.credly.com
