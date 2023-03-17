@@ -1,5 +1,4 @@
 # Qiskit Advocate
-## Study Jam for IBM Cloud Technical Advocate
 
 ### Credential Description
 This credential is for those that have a deep level of understanding with Qiskit including circuits, algorithms, simulators, qubits and noise. Through their contributions to the Qiskit and the quantum community, this individual has demonstrated an ability and commitment to educate and influence others by sharing ideas, knowledge and expertise in the field of quantum computing.
