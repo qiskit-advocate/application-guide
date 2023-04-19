@@ -1,23 +1,23 @@
 # Qiskit Advocates Application Guide
 
-*New: 2022 application details have been announced! Please check out the [How you can apply](#how-you-can-apply) section.*
+*New: 2023 application details have been announced! Please check out the [How you can apply](#how-you-can-apply) section.*
 
-## What is the Qiskit advocate program?
-The Qiskit advocate program is a global initiative to support the most active members of the Qiskit community. As an advocate, you will join the most passionate group of people in quantum computing. Since the program was launched two years ago, [more than 300 people with diverse backgrounds from  30+ countries have joined](https://qiskit.org/advocates/). We work together to grow the Qiskit community through organizing events, making open source contributions to Qiskit code, creating educational content, and more.
+## What is the Qiskit Advocate program?
+The Qiskit Advocate program is a global initiative to support the most active members of the Qiskit community and Qiskit ecosystem. As an Advocate, you will join the most passionate group of people in quantum computing. Since the program was in 2020, [more than 400 people with diverse backgrounds from over 45 countries have joined](https://qiskit.org/advocates/). We work together to grow the Qiskit community through organizing events, making open source contributions to Qiskit code, creating educational content, and more.
 
 ## Why you should apply
 
 ### 1. Networking with experts and enthusiasts
-As an advocate, you will be able to attend monthly meetup sessions to share projects and ideas and work together with fellow advocates on new projects and events.
+As an Advocate, you will be able to attend monthly meetup sessions to share projects and ideas and work together with fellow advocates on new projects and events.
 
 ### 2. Getting special access to Qiskit core members and projects
-As an advocate, you will be able to ask questions to members of the Qiskit team and find a mentor through our [mentorship program](http://qisk.it/advocate-mentorship).
+As an Advocate, you will be able to ask questions to members of the Qiskit team and find a mentor through our [mentorship program](http://qisk.it/advocate-mentorship).
 
 ### 3. Being recognized by IBM
-As an advocate, you will have the opportunity to have your work supported and highlighted by IBM.
+As an Advocate, you will have the opportunity to have your work supported and highlighted by IBM.
 
 ### 4. Receiving invitations to events
-As an active advocate, you will be invited to global (physical or virtual) events created for the quantum community such as Qiskit Camps and IBM Quantum Challenges.
+As an active Advocate, you will be invited to global (physical or virtual) events created for the quantum community such as Qiskit Camps and IBM Quantum Challenges.
 
 ## Advocate highlights
 
@@ -39,22 +39,23 @@ As an active advocate, you will be invited to global (physical or virtual) event
 
 
 ## Who can apply?
-We welcome anyone who is enthusiastic about quantum computing and eager to grow the Qiskit community.
+We welcome anyone who is enthusiastic about quantum computing and eager to grow the Qiskit community and Qiskit ecosystem.
 
 ## How you can apply
 
-Here are the steps for applying to become an advocate:
+Here are the steps for applying to become an Advocate:
 
 *Note: dates are not final and may be subject to change*
 
-1. **Make contributions to Qiskit code and community (Deadline: Jul 1, 2022)**
-Community contributions can vary depending on individual interests including code, tutorials, textbook chapters, bug reporting, Slack support, blogs, videos, events, and more. See the [Contributions](#contributions) section below for different types of contributions that you could make. All contributions must be made before Jul 1, 2022 and submitted as part of your application. 
-2. **Take the Qiskit Developer Certification test (Deadline: Jul 1, 2022)**
-Passing Qiskit Developer Certification test is one of the requirements for becoming a Qiskit advocate. The exam is proctored and will need to be scheduled, so please keep this in mind when submitting your materials and give yourself plenty of time and apply early! You can get a voucher to take the test. See the [Test](#test) section below for more details.
-3. **Submit Application Form (Jun 1 - Jul 1, 2022)**
-Applications must be submitted no later than Jul 1, 2022, 11:59 p.m. EDT. Click "Join the program" on the Qiskit advocate website: https://qiskit.org/advocates/ to apply.
-4. **Application review (Jun 1 - Jul 15, 2022)** 
-Applications will be reviewed by the Qiskit advocate squad on a rolling basis. All application requirements, including the test, must be finished by Jul 1, 2022 at 11:59 p.m. EDT. 
+1. **Make contributions to Qiskit code and community (Deadline: Jul 1, 2023)**
+Community contributions can vary depending on individual interests including code, tutorials, textbook chapters, bug reporting, Slack support, blogs, videos, events, and more. See the [Contributions](#contributions) section below for different types of contributions that you could make. All contributions must be made before Jul 1, 2023 and submitted as part of your application. 
+2. **Take the Qiskit Developer Certification test (Deadline: Jul 15, 2023)**
+Passing Qiskit Developer Certification test is one of the requirements for becoming a Qiskit Advocate. The exam is proctored and will need to be scheduled, so please keep this in mind when submitting your materials and give yourself plenty of time and apply early! You can get a voucher to take the test. See the [Test](#test) section below for more details.
+3. **Submit Application Form (Jun 1 - Jul 1, 2023)**
+Applications must be submitted no later than Jul 1, 2023, 11:59 p.m. EDT. Click "Join the program" on the Qiskit Advocate website: https://qiskit.org/advocates/ to apply.
+4. **Application review (Jun 1 - Jul 31, 2023)** 
+Applications will be reviewed by the Qiskit Advocate squad on a rolling basis. All application requirements, excluding the Qiskit Developer Certification test, must be finished by Jul 1, 2023 at 11:59 p.m. EDT. 
+Applicants will have until July 15, 2023 to pass the Qiskit Developer Certification test.
 
 ## Test
 
