@@ -52,10 +52,12 @@ Community contributions can vary depending on individual interests including cod
 2. **Submit Application Form (Jun 1 - Jul 1, 2023)**
 Applications must be submitted no later than Jul 1, 2023, 11:59 p.m. EDT. Click "Join the program" on the Qiskit Advocate website: https://qiskit.org/advocates/ to apply.
 3. **Take the Qiskit Developer Certification test (Deadline: Jul 15, 2023)**
-Passing Qiskit Developer Certification test is one of the requirements for becoming a Qiskit Advocate. The exam is proctored and will need to be scheduled, so please keep this in mind when submitting your materials and give yourself plenty of time and apply early! You can get a voucher to take the test. See the [Test](#test) section below for more details.
+Passing Qiskit Developer Certification test is one of the requirements for becoming a Qiskit Advocate and if you ave not yet completed this exam, then you will have an additional 2 weeks to do so. The exam is proctored and will need to be scheduled, so please keep this in mind when submitting your materials and give yourself plenty of time and apply early! You can get a voucher to take the test once you have submitted an appropriate* application for the Qiskit Advcocate program. See the [Test](#test) section below for more details.
 4. **Application review (Jun 1 - Jul 31, 2023)** 
 Applications will be reviewed by the Qiskit Advocate squad on a rolling basis. All application requirements, excluding the Qiskit Developer Certification test, must be finished by Jul 1, 2023 at 11:59 p.m. EDT. 
 Applicants will have until July 15, 2023 to pass the Qiskit Developer Certification test.
+
+* An appropriate application is one which has been completed with intent to join the Qiskit Advocate program and not submitted merely to obtain an exam voucher.  Receiving a voucher from your application does not mean you have been selected as a Qiskit Advocate.
 
 ## Test
 
