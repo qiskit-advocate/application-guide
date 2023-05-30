@@ -53,7 +53,7 @@ Community contributions can vary depending on individual interests including cod
 Applications must be submitted no later than Jul 1, 2023, 11:59 p.m. EDT. Click "Join the program" on the Qiskit Advocate website: https://qiskit.org/advocates/ to apply.
 3. **Take the Qiskit Developer Certification test (Deadline: Jul 15, 2023)**
 Passing Qiskit Developer Certification test is one of the requirements for becoming a Qiskit Advocate and if you ave not yet completed this exam, then you will have an additional 2 weeks to do so. The exam is proctored and will need to be scheduled, so please keep this in mind when submitting your materials and give yourself plenty of time and apply early! You can get a voucher to take the test once you have submitted an appropriate* application for the Qiskit Advcocate program. See the [Test](#test) section below for more details.
-4. **Application review (Jun 1 - Jul 31, 2023)** 
+4. **Application review (Jul 15 - Aug 15, 2023)** 
 Applications will be reviewed by the Qiskit Advocate squad on a rolling basis. All application requirements, excluding the Qiskit Developer Certification test, must be finished by Jul 1, 2023 at 11:59 p.m. EDT. 
 Applicants will have until July 15, 2023 to pass the Qiskit Developer Certification test.
 
@@ -63,7 +63,7 @@ Applicants will have until July 15, 2023 to pass the Qiskit Developer Certificat
 
 The [Qiskit Developer Certification](https://www.ibm.com/blogs/research/2021/03/quantum-developer-certification/) is used to assess your technical competency of Qiskit. You can find exam format, scope and resources on [the official website](https://www.ibm.com/training/certification/C0010300). You can read more [here](https://medium.com/qiskit/learn-more-about-the-ibm-quantum-developer-certification-and-how-to-take-it-for-free-d237f9765dc5) about how to prepare for the test. Join the [#qiskit-cert-exam](https://qiskit.slack.com/archives/C0272SW2L0H) channel in the [Qiskit Slack workspace](https://ibm.co/joinqiskitslack) to find even more learning resources, ask questions and interact with others who are also interested in taking the test.
 
-**Vouchers:** Unfortunately, and we are not offering vouchers at this time. There will be select opportunities to receive a voucher in 2023.
+**Vouchers:** Those submitting a 2023 application to the Qiskit Advocate program and have not passed the Qiskit Developer Certification will be eligble for a voucher.  These will be supplied only after submitting an application.
 
 ## Contributions
 
