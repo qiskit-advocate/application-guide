@@ -1,6 +1,6 @@
 # Qiskit Advocates Application Guide
 
-*New: 2023 application details have been announced! Please check out the [How you can apply](#how-you-can-apply) section.*
+*2023 application are now closed!*
 
 ## What is the Qiskit Advocate program?
 The Qiskit Advocate program is a global initiative to support the most active members of the Qiskit community and Qiskit ecosystem. As an Advocate, you will join the most passionate group of people in quantum computing. Since the program was in 2020, [more than 400 people with diverse backgrounds from over 45 countries have joined](https://qiskit.org/advocates/). We work together to grow the Qiskit community through organizing events, making open source contributions to Qiskit code, creating educational content, and more.
@@ -63,7 +63,7 @@ Applicants will have until July 15, 2023 to pass the Qiskit Developer Certificat
 
 The [Qiskit Developer Certification](https://www.ibm.com/blogs/research/2021/03/quantum-developer-certification/) is used to assess your technical competency of Qiskit. You can find exam format, scope and resources on [the official website](https://www.ibm.com/training/certification/C0010300). You can read more [here](https://medium.com/qiskit/learn-more-about-the-ibm-quantum-developer-certification-and-how-to-take-it-for-free-d237f9765dc5) about how to prepare for the test. Join the [#qiskit-cert-exam](https://qiskit.slack.com/archives/C0272SW2L0H) channel in the [Qiskit Slack workspace](https://ibm.co/joinqiskitslack) to find even more learning resources, ask questions and interact with others who are also interested in taking the test.
 
-**Vouchers:** Those submitting a 2023 application to the Qiskit Advocate program and have not passed the Qiskit Developer Certification will be eligble for a voucher.  These will be supplied only after submitting an application.
+**Vouchers:** There will be select opportunities to be awarded a voucher.
 
 ## Contributions
 
@@ -74,8 +74,6 @@ Both quantity and quality of contributions will be examined by us. For example, 
 ### Tier 1 (12-15 points)
 - Open source contributions that are significant
     - Qiskit code: [introduce new features](https://github.com/Qiskit/qiskit-terra/pull/2445)
-    - Qiskit textbook: [new chapters](https://github.com/qiskit-community/qiskit-textbook/pull/452)
-    - Qiskit tutorials: [new tutorials](https://github.com/Qiskit/qiskit-tutorials/pull/1058)
 - [Research papers](https://arxiv.org/abs/2102.01153) using IBM Quantum systems / Qiskit
 - Winners of IBM Quantum / Qiskit events
     - [IBM Quantum Challenge top 10](https://www.ibm.com/blogs/research/2020/12/quantum-challenge-fall-results/)
