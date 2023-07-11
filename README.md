@@ -61,7 +61,7 @@ Applicants will have until July 15, 2023 to pass the Qiskit Developer Certificat
 
 ## Test
 
-The [Qiskit Developer Certification](https://www.ibm.com/blogs/research/2021/03/quantum-developer-certification/) is used to assess your technical competency of Qiskit. You can find exam format, scope and resources on [the official website](https://www.ibm.com/training/certification/C0010300). You can read more [here](https://medium.com/qiskit/learn-more-about-the-ibm-quantum-developer-certification-and-how-to-take-it-for-free-d237f9765dc5) about how to prepare for the test. Join the [#qiskit-cert-exam](https://qiskit.slack.com/archives/C0272SW2L0H) channel in the [Qiskit Slack workspace](https://ibm.co/joinqiskitslack) to find even more learning resources, ask questions and interact with others who are also interested in taking the test.
+The [Qiskit Developer Certification](https://web.archive.org/web/20230413080015/https://www.ibm.com/blogs/research/2021/03/quantum-developer-certification/) is used to assess your technical competency of Qiskit. You can find exam format, scope and resources on [the official website](https://www.ibm.com/training/certification/C0010300). You can read more [here](https://medium.com/qiskit/learn-more-about-the-ibm-quantum-developer-certification-and-how-to-take-it-for-free-d237f9765dc5) about how to prepare for the test. Join the [#qiskit-cert-exam](https://qiskit.slack.com/archives/C0272SW2L0H) channel in the [Qiskit Slack workspace](https://ibm.co/joinqiskitslack) to find even more learning resources, ask questions and interact with others who are also interested in taking the test.
 
 **Vouchers:** There will be select opportunities to be awarded a voucher.
 
@@ -76,10 +76,10 @@ Both quantity and quality of contributions will be examined by us. For example, 
     - Qiskit code: [introduce new features](https://github.com/Qiskit/qiskit-terra/pull/2445)
 - [Research papers](https://arxiv.org/abs/2102.01153) using IBM Quantum systems / Qiskit
 - Winners of IBM Quantum / Qiskit events
-    - [IBM Quantum Challenge top 10](https://www.ibm.com/blogs/research/2020/12/quantum-challenge-fall-results/)
+    - [IBM Quantum Challenge top 10](https://web.archive.org/web/20220810063238/https://www.ibm.com/blogs/research/2020/12/quantum-challenge-fall-results/)
     - [Qiskit Camps](https://medium.com/qiskit/recap-of-qiskit-camp-2019-4d95f07dd179)
     - [Qiskit hackathons](https://medium.com/qiskit/feel-the-rhythm-of-quantum-with-our-qiskit-hackathon-korea-e80c27fdb9f9)
-    - [Open Science Prize](https://www.ibm.com/blogs/research/2020/11/open-science-prize/)
+    - [Open Science Prize](https://web.archive.org/web/20230203154622/https://www.ibm.com/blogs/research/2020/11/open-science-prize/)
 - Qiskit Localization Contributor - [Platinum](https://www.credly.com/org/ibm/badge/qiskit-localization-contributor-platinum-level-translator-2022)/[Gold](https://www.credly.com/org/ibm/badge/qiskit-localization-contributor-gold-level-translator-2022) Level Translator
 
 ### Tier 2 (8-12 points)
