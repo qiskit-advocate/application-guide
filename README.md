@@ -1,6 +1,6 @@
 # Qiskit Advocates Application Guide
 
-*2023 application are now closed!*
+*2023 applications are now closed!*
 
 ## What is the Qiskit Advocate program?
 The Qiskit Advocate program is a global initiative to support the most active members of the Qiskit community and Qiskit ecosystem. As an Advocate, you will join the most passionate group of people in quantum computing. Since the program was in 2020, [more than 400 people with diverse backgrounds from over 45 countries have joined](https://qiskit.org/advocates/). We work together to grow the Qiskit community through organizing events, making open source contributions to Qiskit code, creating educational content, and more.
